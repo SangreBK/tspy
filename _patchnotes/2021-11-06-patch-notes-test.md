@@ -1,21 +1,20 @@
 ---
 date: 2021-10-30T20:23:26.922Z
-title: Bugs & Costumes
+title: Cambios & Atuendos
 subtitle: Costume Part Update
 icon: /img/qachan.png
 content_fr: ""
 ---
-# Bug Fixes
+## CORRECCIÓN DE ERRORES Y CAMBIOS DE FUNCIONALIDAD
 
-* *TOs, DOs, and SOs all buffed to 15%, 25%, and 35% respectively*
-* IOs can't be slotted below their level
-* TOs, DOs, and SOs only drop at levels 0-15, 15-30, and 30-50 respectively
-* **Cathedral of Pain spawns enemies now**
+* TOs, DOs y SOs mejorados al 15%, 25% y 35% respectivamente
+* TOs, DOs, y SOs solo caen en los niveles 0-15, 15-30, y 30-50 respectivamente
+* La Catedral del Dolor ahora genera enemigos.
 
-## Costume Parts
+## Atuendos
 
-1. CoT Behemoth head for all genders can be earned from defeating Baphomet
-2. Rikti Monkey head for male only rihght now can be unlocked from defeating 1000 Rikti Monkeys
-3. Wailer head for male and huge only right now
-4. The wealth aura and money backpack can be unlocked by earning 10 million influence on one character
-5. Shimapan in bottoms with skin for females only
+1. Cabeza de demonio Behemoth para todos los generos, (Se desbloquea al derrotar a Baphomet )
+2. Cabeza de mono Rikti para todos los generos, (Se desbloquea asesinando 1000 Monos Rikti )
+3. Cabeza de demonio Wailer para generos Hombre y Grande.
+4. El aura de dinero ahora puede ser desbloqueada al obtener 10 milliones de influencia en un personaje.
+5. Shimapan disponible en ropa interior para mujeres.
