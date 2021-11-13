@@ -9,3 +9,15 @@ body: >-
      1. Go to the launcher's options menu
      2. Add the link to this manifest: <https://www.thunderspygaming.net/styles/freedom/manifest.xml>
   4. If Sweet Tea doesn't work, try [Sunrise Launcher.](https://git.ourodev.com/community/sunrise-launcher/uploads/e549163a029e22fd43183c513c82d6f7/sunrise-launcher-portable.zip)
+body_es: >-
+  
+
+  1. Descarga e Instala [Sweet Tea launcher](https://files.thunderspygaming.net/sweet-tea/installer.exe).
+
+  2. Ejecuta Sweet Tea Launcher desde tu escritorio.
+
+  3. Si el servidor Thunderspy (/coxg/) no esta disponible,
+
+     1. Ve a las opciones del Launcher
+     2. Añade el siguiente link en el manifesto: <https://www.thunderspygaming.net/styles/freedom/manifest.xml>
+  4. Si Sweet Tea Launcher no funciona, intenta usar [Sunrise Launcher.](https://git.ourodev.com/community/sunrise-launcher/uploads/e549163a029e22fd43183c513c82d6f7/sunrise-launcher-portable.zip)
